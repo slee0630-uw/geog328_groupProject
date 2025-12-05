@@ -46,7 +46,12 @@ Our web map uses location data published by Seattle City Light through its Publi
 We used Mapbox GL JS to create the actual map and we were able to add a basemap and format the visuals of Seattle and the charging stations.
 ### Turf.js
 We used Turf.js to track current location to help users find stations relative to their real-time location.
-### 
+### Mapbox’s basemap service 
+This privided the underlying cartographic tiles for our map visual
+### GitHub Pages 
+Hosts the web project and serves the application files. 
+
+Together, these components supply the core mapping, location, and hosting infrastructure for the tool.
 
 ## Acknowledgements
 
