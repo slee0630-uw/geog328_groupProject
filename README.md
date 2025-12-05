@@ -1,4 +1,5 @@
 # Seattle EV Charging Stations
+### Madhuri Parasa, Sangmin Lee, Hieu Tran, Yuanfan Wang
 ## Description
 For our final project in GEOG 328, we decided to develop a web GIS application that highlights EV Charging Stations in Seattle, WA. The goal of our project is to visualize the spatial distribution of electric vehicle (EV) charging stations across Seattle and provide detailed information about each station to users (including the power level of each charger) to allow EV drivers to easily discover charging stations based on their specific needs. 
 
@@ -52,8 +53,6 @@ This privided the underlying cartographic tiles for our map visual
 Hosts the web project and serves the application files. 
 
 Together, these components supply the core mapping, location, and hosting infrastructure for the tool.
-
-## Acknowledgements
 
 ## AI Disclosure
 We used AI (primarily ChatGPT and Claude) to assist in generally understanding our data and to help style our maps. A large use of AI in our project was to help with debugging concerns and for clarifying questions about our development process when we found ourselves a little stuck or confused along the way. AI was used to create our favicon and color-coded icons on the map to help speed up the design process so we could focus on the features of the web map. 
