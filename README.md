@@ -11,7 +11,14 @@ For our final project in GEOG 328, we decided to develop a web GIS application t
 Our goal for this web map was to allow EV drivers to easily discover local charging stations in Seattle based on their specific needs. We incoporated a filtering feature that allows users to enter their preferences for charging level (all levels, Standard plug, AC plug, or DC plug), availability, price (paid or free), and distance from their current location (within 1, 5, or 10 miles from them) to provide as seamless an experience as possible for their search. 
 
 ## Main Functions
-When users first open the web map they will see a map of Seattle with various color-coded icons scattered around the city, as well as a list of locations with addresses on the left side of the screen (with a button that allows them to input filters). 
+When users first open the web map they will see a map of Seattle with various color-coded icons scattered around the city (explained by the legend in the bottom right corner that allows users to see the power level of the charger based on the color of the icon), as well as a list of locations with addresses on the left side of the screen (with a button that allows them to input filters). 
+
+---
+Then, if a user clicks on the "Filter" button, they will see a variety of filtering options to narrow down their search for an EV charger based on their needs.
+---
+Here's an example of what results would look like with the following filters applied: looking for a standard plug charger (level 1 charger) that is currently available at any price point with no limit of distance from their current location. 
+---
+As you can see, there are two available options, both at Seatac airport. 
 
 
 ## Data Sources
